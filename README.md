@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://jolly-kare-8d3180.netlify.app/]()
+* Link to the website deployed on Netlify : https://jolly-kare-8d3180.netlify.app/
